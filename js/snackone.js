@@ -16,3 +16,4 @@ for(let i = 0; i<number.length; i++){
  sum += number[i];
 }
 console.log(sum);
+result.innerText = "Il risultato Tot dei numeri digitati è: " + sum;
